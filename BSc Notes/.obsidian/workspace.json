@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "aee5271399cb7d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "01cd116b25e2b8bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a5f13d668db8367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/C++/Terminologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17e7c8e3e8f527fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "279e8c28f962f7e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4605943e279dc58a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3dc4b6d88aadd0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e512d549e8ce213",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f086e08bb070564",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17ac017486e97bc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e917956f925de18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "631f274effab9db0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8423624cf9569215",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "34ea667befdf750b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c59399fd780cf847",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BSc Notes/Semester 4/C++/Terminologies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f61d87c5e65443b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BSc Notes/Semester 4/C++/Terminologies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f348286305760bd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d3c6a853850640b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BSc Notes/Semester 4/C++/Terminologies.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "1a5f13d668db8367",
+  "lastOpenFiles": [
+    "BSc Notes/Semester 4/C++/Terminologies.md",
+    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
+    "BSc Notes/Semester 4/C++/Introduction.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Introduction.md",
+    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+    "BSc Notes/Semester 4/Languages and Computation/Parsers.md",
+    "BSc Notes/Semester 4/Untitled.md",
+    "Reading Notes/The Richest Man in Babylon.md",
+    "Journal/Flight to Qatar on 12-1-2023.md"
+  ]
+}
