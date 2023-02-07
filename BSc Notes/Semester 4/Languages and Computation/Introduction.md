@@ -13,6 +13,7 @@
 - A hierarchy that describes the hierarchy of languages (or **classes of formal grammar**), each level builds ontop of the fundamentals of the one underneath.
 ![[Pasted image 20230131112822.png]]
 - The entire module focuses on going through this hierarchy to build and understand formal languages.
+	- These formal languages build upon [[Terminology]]'s specified within the field
 
 #### Automata Theory
 - A model for important kinds of hardware and software such as:

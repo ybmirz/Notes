@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a00cfb0f93a4ee64",
+            "id": "12e180b53977c233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS 21-22/OpenRevise Planning - MengZe.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "493b30667ececbdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS 21-22/OpenRevise Planning - MengZe.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS 21-22/OpenRevise Planning - MengZe.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS 21-22/OpenRevise Planning - MengZe.md"
+                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md"
               }
             }
           },
@@ -170,17 +183,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a00cfb0f93a4ee64",
+  "active": "493b30667ececbdd",
   "lastOpenFiles": [
-    "BSc Notes/Semester 4/AI Methods/Introduction.md",
+    "BSc Notes/Semester 4/Languages and Computation/Word.md",
+    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
+    "BSc Notes/Semester 4/Languages and Computation/Languages.md",
     "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
-    "BSc Notes/Semester 3/SEGP/Project Description Outline.md",
-    "BSc Notes/Semester 3/OS/Introduction.md",
-    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
     "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
+    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
+    "BSc Notes/Semester 3/ACE/Recurrence.md",
+    "CSS 21-22/OpenRevise Planning - MengZe.md",
     "BSc Notes/Semester 4/Intro to Image Processing/Introduction.md",
-    "BSc Notes/Semester 4/AI Methods/Terminologies.md",
-    "BSc Notes/Semester 3/SM/Introduction.md",
-    "BSc Notes/Semester 3/ACE/Introduction.md"
+    "BSc Notes/Semester 4/AI Methods/Introduction.md"
   ]
 }
