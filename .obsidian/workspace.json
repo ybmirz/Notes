@@ -8,24 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12e180b53977c233",
+            "id": "cfa2571cb9ad829a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "493b30667ececbdd",
+            "id": "961f7c2ad5ab6079",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "edc8a64694100fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Heuristics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb91943cd2ede298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ab4d063a72a6e388",
@@ -98,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,17 +199,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "493b30667ececbdd",
+  "active": "961f7c2ad5ab6079",
   "lastOpenFiles": [
-    "BSc Notes/Semester 4/Languages and Computation/Word.md",
+    "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
+    "BSc Notes/Semester 4/AI Methods/Representation.md",
+    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
+    "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
+    "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
+    "Untitled.md",
     "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
-    "BSc Notes/Semester 4/Languages and Computation/Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
-    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
-    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
-    "BSc Notes/Semester 3/ACE/Recurrence.md",
-    "CSS 21-22/OpenRevise Planning - MengZe.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Introduction.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Aliasing.md",
+    "BSc Notes/Semester 4/AI Methods/Terminologies.md",
     "BSc Notes/Semester 4/AI Methods/Introduction.md"
   ]
 }

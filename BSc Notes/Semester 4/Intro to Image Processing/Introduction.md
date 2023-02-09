@@ -10,6 +10,7 @@
 ### The steps
 1. Describing the **image formation**
 2. Creating an **acquisition of information**
+	- The act of acquiting information from an object within an environment, or *an image*. More on [[Image Acquisition]]
 3. Annotating the **color representation** of the image, based on the acquisition
 
 > It should note that Pixel values represent the *brightness* and *colour* of the viewed objects, but give no indication of what object the numbers refer to - hence low-level

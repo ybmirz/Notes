@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#semester3",
-      "color": {
-        "a": 1,
-        "rgb": 11217707
-      }
-    },
-    {
-      "query": "tag:#semester4",
+      "query": "tag:#image-process",
       "color": {
         "a": 1,
         "rgb": 5293559
+      }
+    },
+    {
+      "query": "tag:#ai-methods",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#languages-computation",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.134129961237076,
-  "close": true
+  "scale": 1.0958863944772421,
+  "close": false
 }
