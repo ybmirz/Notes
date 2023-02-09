@@ -8,51 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfa2571cb9ad829a",
+            "id": "a00cfb0f93a4ee64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Resolution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "961f7c2ad5ab6079",
+            "id": "89938f77e3d09f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d236f7dd4455fbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Quantisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48a176dfd42046e0",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "edc8a64694100fec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Heuristics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb91943cd2ede298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "ab4d063a72a6e388",
@@ -199,17 +199,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "961f7c2ad5ab6079",
+  "active": "48a176dfd42046e0",
   "lastOpenFiles": [
-    "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
-    "BSc Notes/Semester 4/AI Methods/Representation.md",
-    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
-    "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
-    "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
-    "Untitled.md",
-    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Image Acquisition.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Resolution.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Quantisation.md",
     "BSc Notes/Semester 4/Intro to Image Processing/Aliasing.md",
-    "BSc Notes/Semester 4/AI Methods/Terminologies.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Introduction.md",
+    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
+    "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
+    "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
     "BSc Notes/Semester 4/AI Methods/Introduction.md"
   ]
 }
