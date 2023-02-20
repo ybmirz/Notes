@@ -13,39 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "961f7c2ad5ab6079",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "edc8a64694100fec",
+            "id": "e9a8412864a0cdf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Heuristics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb91943cd2ede298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BSc Notes/Semester 4/AI Methods/Metaheuristics.md"
+              }
             }
           },
           {
@@ -199,17 +183,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "961f7c2ad5ab6079",
+  "active": "e9a8412864a0cdf2",
   "lastOpenFiles": [
-    "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
-    "BSc Notes/Semester 4/AI Methods/Representation.md",
+    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
+    "BSc Notes/Semester 4/Languages and Computation/Languages.md",
+    "Formal Languages.md",
+    "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
     "BSc Notes/Semester 4/AI Methods/Heuristics.md",
-    "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
-    "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
-    "Untitled.md",
-    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Aliasing.md",
-    "BSc Notes/Semester 4/AI Methods/Terminologies.md",
-    "BSc Notes/Semester 4/AI Methods/Introduction.md"
+    "BSc Notes/Semester 4/AI Methods/Performance Comparison of.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Resolution.md",
+    "Introduction to Graph Algorithms.md",
+    "BSc Notes/Semester 4/AI Methods/Introduction.md",
+    "BSc Notes/Semester 4/AI Methods/Representation.md"
   ]
 }
