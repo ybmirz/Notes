@@ -1,4 +1,4 @@
-- Heursitic search are searches that have *heuristic* characteristics in finding the solution.
+- Heurisitic search are searches that have *heuristic* characteristics in finding the solution.
 - It is a *search algorithm*
 	- Figuring out how to get into a search function
 
