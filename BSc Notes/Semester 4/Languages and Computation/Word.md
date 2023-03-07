@@ -37,7 +37,7 @@ u (vw) = (uv)w  \\
 w,v,u \in \sum^{*}
 \end{align}
 $$
-> Above shows *associativity* of word concatenation. along with a consideration that $\epsilon$ is given as a *unit*
+> 	Above shows *associativity* of word concatenation. along with a consideration that $\epsilon$ is given as a *unit*
 
 - Concatenation is **not commutative** (where order **matters**) as *words* are taken as *sequences*, shown as that 
 	- the words $w,v$
@@ -45,3 +45,5 @@ $$
 vw \neq wv
 $$
 > Above shows the anti-commutative propery of word concatenation, as *sequences* of the alphabet within the word matters.
+
+#semester4 #languages-computation 
