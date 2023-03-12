@@ -54,3 +54,4 @@ Given a DFA $D = (Q, \sum, \delta, q_{0}, F)$, the *language of D* is defined as
 $$
 L (D) = \{ w | \delta(q_{0}, w) \in F \}
 $$
+#semester4 #languages-computation 

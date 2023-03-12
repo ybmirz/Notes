@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "090332b4f0caff84",
+        "id": "4a7d7996ed56cde7",
         "type": "tabs",
         "children": [
           {
-            "id": "3f031197ae8dec99",
+            "id": "ea7a18f18efc4d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#semester4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,19 +162,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3f031197ae8dec99",
+  "active": "ea7a18f18efc4d51",
   "lastOpenFiles": [
-    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata.md",
-    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
     "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
+    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
+    "BSc Notes/Semester 4/Languages and Computation/Formal Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata.md",
+    "BSc Notes/-images/Pasted image 20230312153854.png",
+    "BSc Notes/Semester 4/Languages and Computation/DFAs are NFAs.md",
+    "BSc Notes/-images/Pasted image 20230312151747.png",
+    "BSc Notes/-images/Pasted image 20230312150505.png",
+    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
+    "BSc Notes/-images/Pasted image 20230312142014.png",
     "BSc Notes/-images/Pasted image 20230307225304.png",
     "BSc Notes/-images/Pasted image 20230307215800.png",
-    "BSc Notes/Semester 4/Languages and Computation/Formal Languages.md",
     "conflict-files-obsidian-git.md",
     "BSc Notes/Semester 4/AI Methods/Heuristics.md",
     "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
     "BSc Notes/Semester 4/Languages and Computation/Word.md",
-    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
     "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
     "BSc Notes/Semester 4/Languages and Computation/Languages.md",
     "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",

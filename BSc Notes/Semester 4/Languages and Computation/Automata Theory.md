@@ -34,4 +34,8 @@
 
 > The main difference between a DFA and an NFA is that NFAS can have **multiple start states** instead of a *single one* and the **type of transition function**
 
+- By understanding the main *single* difference between NFAs and DFAs, it could be seen that they can easily be **converted** to one another. More here [[DFAs are NFAs]]
+
+
+
 #semester4 #languages-computation
