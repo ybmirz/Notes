@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7d7996ed56cde7",
+        "id": "65062734dcf7f63c",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7a18f18efc4d51",
+            "id": "914a8cf872e11ce5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md"
+              }
             }
           },
           {
@@ -162,8 +170,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ea7a18f18efc4d51",
+  "active": "914a8cf872e11ce5",
   "lastOpenFiles": [
+    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Aliasing.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Quantisation.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Introduction.md",
     "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
     "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
     "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
@@ -181,7 +193,6 @@
     "BSc Notes/Semester 4/AI Methods/Heuristics.md",
     "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
     "BSc Notes/Semester 4/Languages and Computation/Word.md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
     "BSc Notes/Semester 4/Languages and Computation/Languages.md",
     "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
     "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
