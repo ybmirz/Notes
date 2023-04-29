@@ -13,9 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c3e2717fecbc59b0",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-latex-suite/data.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Introduction.md"
+                "file": "BSc Notes/Semester 4/Languages and Computation/Languages.md"
               }
             }
           },
@@ -173,13 +184,24 @@
   "active": "93653a58e89c00ac",
   "lastOpenFiles": [
     "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
     "BSc Notes/Semester 4/Languages and Computation/Languages.md",
+    "conflict-files-obsidian-git.md",
+    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/Formal Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/DFAs are NFAs.md",
+    "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
+    "BSc Notes/-images/Pasted image 20230312153854.png",
+    "BSc Notes/-images/Pasted image 20230312151747.png",
+    "BSc Notes/-images/Pasted image 20230312150505.png",
+    "BSc Notes/-images/Pasted image 20230312142014.png",
+    "BSc Notes/-images/Pasted image 20230307225304.png",
+    "BSc Notes/-images/Pasted image 20230307215800.png",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
     "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
     "BSc Notes/Semester 4/Languages and Computation/Word.md",
     "CSS 21-22/CSS Git Workshop.md",
     "CSS Notes 22-23/General Notes.md",
-    "conflict-files-obsidian-git.md",
     "BSc Notes/Semester 4/AI Methods/Heuristics.md",
     "BSc Notes/Semester 4/Intro to Image Processing/Quantisation.md"
   ]

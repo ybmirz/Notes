@@ -2,6 +2,8 @@
 	- [[Context Free Grammar]] are very useful when designing software that processes data with *recursion*, like the parser in a compiler.
 	- [[Regular Expression]] are very useful for specifying lexical aspects of programming languages and search patterns
 
+>  A study of abstract machines and automata, as well as the computational problems that can be solved using them
+
 - We can further use this theory to understand the **limits of computation** with *two main issues*
 	- **What** can a **computer** do *at all*? -- **Decidability**
 	- **What** can a computer do *efficiently* -- **Interactability**
@@ -14,5 +16,26 @@
 	- `It is impossible to write a program that decides if another, arbitrary program with any input terminates (halts) or not.`
 
 - However, this could even be **further proved** where it is impossible to write such a program, and this was first done by **Alan Turing**
+
+## Finite Automata
+- The most basic machine (automata) to recognise patterns. An abstract machine that has five elements or tuples. 
+	- It has **a set of states** and **rules for moving** from one state to another, but it depends upon the *applied input symbol*
+
+#### The Problem
+- An important question that is taken from understanding languages, is that
+> Given a *language* $L \subseteq \sum^{*}$ and a *word* $w \in \sum^{*}$, can we determine if $w \in L$ ?
+
+- A possible solution is to *construct* a machine that **accepts a word w** $\iff w \in L$
+	- These machines could abstractly be studied as automata
+
+- There's two types of finite automata that could be further developed:
+	- [[Deterministic Finite Automata]] (DFA)
+	- [[Nondeterministic Finite Automata]] (NFA)
+
+> The main difference between a DFA and an NFA is that NFAS can have **multiple start states** instead of a *single one* and the **type of transition function**
+
+- By understanding the main *single* difference between NFAs and DFAs, it could be seen that they can easily be **converted** to one another. More here [[DFAs are NFAs]]
+
+
 
 #semester4 #languages-computation
