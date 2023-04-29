@@ -26,4 +26,15 @@
 	- [[Regular Expression]] are very useful for specifying lexical aspects of programming languages and search patterns.
 - More on [[Automata Theory]]
 
+## The fundamental question
+
+> Given a language $L \subset \sum^{*}$ and a word $w \in \sum^{*}$, can we determine if $w \in L$;
+
+- The above question, *inductively* as a human being can understand that *it might be true*. This whole module bases off us trying to understand information and knowledge theory, using based languages and computation to construct a proper argument against the fundamental question
+
+- Hence so, let's say $L$ is **finite**, it's simple, we simply prove its existence in L given the words in the alphabet
+- however, let's say it's **infinite**, it gets a little complicated because we would need:
+	- a *finite and concise* description of the *rather infinite* language
+	- and also a *method* to **decide** if $w \in L$ or not, given the description
+
 #semester4 #languages-computation

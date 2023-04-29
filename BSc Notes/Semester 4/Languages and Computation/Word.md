@@ -45,3 +45,5 @@ $$
 vw \neq wv
 $$
 > Above shows the anti-commutative propery of word concatenation, as *sequences* of the alphabet within the word matters.
+
+#semester4 #languages-computation 
