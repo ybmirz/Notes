@@ -70,5 +70,21 @@ $$
 - An **inductive** proof could be given to describe the subset construction of a DFA from an NFA; a proof that they can be converted which then shows $L(A) = L(D(A))$ where $A$ is an NFA
 
 
+### DFA Minimization
+Before we minimise a DFA, we need to figure out the equivalence of states within the DFA; the main definition of which is:
+$$
+\begin{align}
+DFA&( Q,\sum, \delta, q_{0}, F) \\
+&p,q \in Q \\
+&\forall w \in \sum*  \\ \\
+\hat{\delta}(p,w) &\in F \iff \hat{\delta}(q,w) \in F
+\end{align}
+$$
+
+> $p$ and $q$ are equivalent states of the transformation of the word at state $p$ is equivalent to the transformation of the word at state $q$
+
+> It should be noted that $p$ and $q$ does not have to be the **same** state. The opposite of equivalent is **distinguishable**
+
+
 
 #semester4 #languages-computation 

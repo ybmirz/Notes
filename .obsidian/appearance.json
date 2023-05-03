@@ -2,5 +2,6 @@
   "accentColor": "#2ef5f2",
   "cssTheme": "Hipstersmoothie",
   "theme": "obsidian",
-  "baseFontSize": 13
+  "baseFontSize": 13,
+  "interfaceFontFamily": "Losevka"
 }

@@ -22,7 +22,7 @@
 	- Finding words and patterns in large bodies of text 
 	- Verification of systems with finite numbers of states
 - The study of this connect deeply with [[Formal Languages]], as it creates methods for *specifying* formal languages are very important in many areas of CS;
-	- [[Context Free Grammar]] are very useful when designing software that processes data with *recursion*, like the parser in a compiler.
+	- [[Context Free Languages#Context-Free Grammar]] are very useful when designing software that processes data with *recursion*, like the parser in a compiler.
 	- [[Regular Expression]] are very useful for specifying lexical aspects of programming languages and search patterns.
 - More on [[Automata Theory]]
 

@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "BSc Notes/-images",
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "vimMode": true
 }

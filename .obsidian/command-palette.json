@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "editor:focus-top",
+    "editor:focus-bottom",
+    "editor:focus-left",
+    "editor:focus-right",
+    "workspace:split-vertical"
+  ]
+}

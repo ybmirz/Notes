@@ -51,5 +51,32 @@ $$
 - The total possible sets of states is $2^{|Q|}$ *possibilities*, because for *each state, the automata is either in that state or not* (hence 2 possibilities). 
 	- $Q$ is the finite set of states given into the automata
 
+---
+Below are topics in relation with Regular Expressions;  NFA that expresses regular expressions
+
+#### Sequential Composition of NFAs
+An example of this composition is $N(R_{1}R_{2})$
+
+- Let's get through it step by step; 
+	- Placing $N(R_{1})$ and $N(R_{2})$ side by side
+	- Remove the *initial* arrows in $N(R_{2})$
+	- Any arrows that points to an *accepting state* in $N(R_{1})$ need to be *duplicated* to point to **all** states that were *the initial arrows* in $N(R_{2})$. (including transition and initial arrows)
+	- All *accepting states* in $N(R_{1})$ should be changed to **not accepting**
+
+- Another difficult one would be figuring out $N(R^{*})$; We simply;
+	- Start with drawing out $N(R)$
+	- Take all transitions that point to an *accepting state* is to be *duplicated* to point to **all** the initial states
+	- An additional initial (and accepting state should be added)
+
+#### Repetition of NFAs
+Following the format of $N(R*)$
+
+- Simple two steps of transformation:
+	- Starting with the one $N(R)$
+	- All transitions that point to an accepting state need to be duplicated to point to **all** initial states
+	- An additional state (and accepting state) should be added
+
+> last note; the NFA of an NFA of R is the same as  the NFA of R;
+> 	$N((R)) = N(R)$
 
 #semester4 #languages-computation 

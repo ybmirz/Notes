@@ -4,17 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "340c741d60325714",
+        "id": "2aa1459a642b053f",
         "type": "tabs",
         "children": [
           {
-            "id": "c4da5fc63d957b47",
+            "id": "3c8cb2704ea905d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21f543da1eaf6627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7e3491608fdff01d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197feeade668ac3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -48,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "context free",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 214
   },
   "right": {
     "id": "ab4d063a72a6e388",
@@ -85,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+                "file": "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,20 +148,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md"
+                "file": "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md"
               }
             }
           },
           {
-            "id": "605af2d26c46e33f",
+            "id": "8ec6d8c553650d9c",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d2306d3e764d038",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "02dc92cfad6d345c",
@@ -157,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,24 +212,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c4da5fc63d957b47",
+  "active": "21f543da1eaf6627",
   "lastOpenFiles": [
-    "BSc Notes/Semester 4/Languages and Computation/Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
+    "BSc Notes/Semester 4/Languages and Computation/Language of a PDA.md",
+    "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
+    "BSc Notes/Semester 4/Languages and Computation/Untitled",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Languages.md",
+    "Derives in 1 or more.md",
     "BSc Notes/Semester 4/Languages and Computation/Formal Languages.md",
     "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
-    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
-    "conflict-files-obsidian-git.md",
+    "Context Free Grammar.md",
+    "Context Free Langauages.md",
+    "BSc Notes/-images/Pasted image 20230430175419.png",
     "BSc Notes/Semester 4/Languages and Computation/DFAs are NFAs.md",
+    "BSc Notes/Semester 4/Languages and Computation/Languages.md",
     "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
+    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata.md",
+    "conflict-files-obsidian-git.md",
     "BSc Notes/-images/Pasted image 20230312153854.png",
     "BSc Notes/-images/Pasted image 20230312151747.png",
     "BSc Notes/-images/Pasted image 20230312150505.png",
     "BSc Notes/-images/Pasted image 20230312142014.png",
     "BSc Notes/-images/Pasted image 20230307225304.png",
     "BSc Notes/-images/Pasted image 20230307215800.png",
-    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
     "BSc Notes/Semester 4/Languages and Computation/Word.md",
     "CSS 21-22/CSS Git Workshop.md",
     "CSS Notes 22-23/General Notes.md",
