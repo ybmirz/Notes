@@ -1,7 +1,8 @@
 {
   "accentColor": "#2ef5f2",
-  "cssTheme": "Hipstersmoothie",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "baseFontSize": 13,
-  "interfaceFontFamily": "Losevka"
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Inter"
 }
