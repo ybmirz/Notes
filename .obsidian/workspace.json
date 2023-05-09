@@ -4,39 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa1459a642b053f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "197feeade668ac3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bec4f587b82f927e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "7e3491608fdff01d",
         "type": "tabs",
         "children": [
@@ -46,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Deterministic Pushdown Automata.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Terminologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "e101962ad123cae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Notes/Semester 4/Languages and Computation/Pushdown Automata.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BSc Notes/Semester 4/AI Methods/Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BSc Notes/Semester 4/AI Methods/Terminologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BSc Notes/Semester 4/AI Methods/Terminologies.md"
+              }
             }
           },
           {
@@ -235,22 +192,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "bec4f587b82f927e",
+  "active": "bcb7c96d5a97b015",
   "lastOpenFiles": [
-    "BSc Notes/Semester 4/Languages and Computation/Finite Automata.md",
-    "BSc Notes/Semester 4/Languages and Computation/Pushdown Automata.md",
-    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
-    "BSc Notes/Semester 4/Languages and Computation/Deterministic Pushdown Automata.md",
-    "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
-    "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata.md",
+    "BSc Notes/-images/Pasted image 20230509143939.png",
     "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
+    "BSc Notes/Semester 4/AI Methods/Terminologies.md",
+    "BSc Notes/Semester 4/AI Methods/Introduction.md",
+    "BSc Notes/Semester 4/Languages and Computation/Deterministic Pushdown Automata (DPDAs).md",
+    "BSc Notes/Semester 4/Languages and Computation/Pushdown Automata (PDA).md",
+    "BSc Notes/Semester 4/Languages and Computation/Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Languages.md",
+    "Braindead Notes/2023-05-07.md",
+    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
+    "2023-W19.md",
+    "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
+    "Braindead Notes",
+    "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata (DFA).md",
     "BSc Notes/Semester 4/Languages and Computation/Language of a PDA.md",
     "BSc Notes/Semester 4/Languages and Computation/Untitled",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Languages.md",
     "Derives in 1 or more.md",
     "BSc Notes/Semester 4/Languages and Computation/Formal Languages.md",
     "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
@@ -261,18 +225,13 @@
     "BSc Notes/Semester 4/Languages and Computation/Languages.md",
     "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
     "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
-    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata (NFA).md",
     "conflict-files-obsidian-git.md",
     "BSc Notes/-images/Pasted image 20230312153854.png",
     "BSc Notes/-images/Pasted image 20230312151747.png",
     "BSc Notes/-images/Pasted image 20230312150505.png",
     "BSc Notes/-images/Pasted image 20230312142014.png",
     "BSc Notes/-images/Pasted image 20230307225304.png",
-    "BSc Notes/-images/Pasted image 20230307215800.png",
-    "BSc Notes/Semester 4/Languages and Computation/Word.md",
-    "CSS 21-22/CSS Git Workshop.md",
-    "CSS Notes 22-23/General Notes.md",
-    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Quantisation.md"
+    "BSc Notes/-images/Pasted image 20230307215800.png"
   ]
 }

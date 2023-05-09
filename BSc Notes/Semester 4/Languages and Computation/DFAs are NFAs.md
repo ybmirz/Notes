@@ -1,5 +1,5 @@
 ### DFA -> NFA
-- First thing to note is that **DFAs are a special case of an NFA**, with its specialty being a DFA having: (as defined in [[Deterministic Finite Automata]])
+- First thing to note is that **DFAs are a special case of an NFA**, with its specialty being a DFA having: (as defined in [[Deterministic Finite Automata (DFA)]])
 	- exactly **one initial state**
 	- and exactly **one transition from each state** per symbol
 
@@ -21,7 +21,7 @@ $$
 > Notice that the intial state $q_{0}$ in the DFA, is added into the *set of initial states* in the NFA ($\{ q_{0} \}$) and the transition function $\delta_{N(A)}$ is simply the *set of transition function* with the DFA's transition function being an element.
 
 ### NFA -> DFA
-Given the observations in [[Nondeterministic Finite Automata#Observations]] , we could convert an NFA to a DFA by simply **taking each set of NFA** to be a **single DFA state**
+Given the observations in [[Nondeterministic Finite Automata (NFA)#Observations]] , we could convert an NFA to a DFA by simply **taking each set of NFA** to be a **single DFA state**
 
 - Let's say given an NFA;
 $$

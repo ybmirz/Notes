@@ -32,7 +32,7 @@
 
 > It's better to try and understand the proper working of converting an RE to an NFA through practice, but simply an RE is already given as a transition diagram, so creating that NFA is a simple conversion.
 
-- One of the more problematic ones, is creating the NFA $N(R_{1}R_{2})$ because it *composes* the two RE (NFA), or known as the [[Nondeterministic Finite Automata#Sequential Composition of NFAs]]
+- One of the more problematic ones, is creating the NFA $N(R_{1}R_{2})$ because it *composes* the two RE (NFA), or known as the [[Nondeterministic Finite Automata (NFA)#Sequential Composition of NFAs]]
 
 
 

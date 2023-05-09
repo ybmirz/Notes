@@ -10,8 +10,8 @@
 	- These machines could abstractly be studied as automata
 
 - There's two types of finite automata that could be further developed:
-	- [[Deterministic Finite Automata]] (DFA)
-	- [[Nondeterministic Finite Automata]] (NFA)
+	- [[Deterministic Finite Automata (DFA)]] (DFA)
+	- [[Nondeterministic Finite Automata (NFA)]] (NFA)
 
 > The main difference between a DFA and an NFA is that NFAS can have **multiple start states** instead of a *single one* and the **type of transition function**
 
