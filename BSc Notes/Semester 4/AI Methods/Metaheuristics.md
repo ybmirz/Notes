@@ -48,3 +48,6 @@ if (accept) s* = s';
 - Accepting *non-improving* moves could be used as a mechanism to escape from the *local optima*
 
 ### Iterated Local Search
+
+
+#ai-methods #semester4 

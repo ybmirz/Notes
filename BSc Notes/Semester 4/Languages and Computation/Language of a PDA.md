@@ -1,4 +1,4 @@
-## Instantaneous Description (ID)
+	## Instantaneous Description (ID)
 - An ID describes completely the **state of computation** for a PDA;
 	- It is a triple where $(q, w, \gamma)\in Q \times \sum^{*} \times \Gamma ^{*}$
 > a state, a word and a stack configuration; this three describes the current state of computation of a PDA by definition

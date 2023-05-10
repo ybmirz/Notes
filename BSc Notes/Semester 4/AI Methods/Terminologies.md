@@ -58,6 +58,51 @@
 
 - First choosing a quantity (typically a function of several variables known as the *objective function*) to be maximised or minimised, which might be subject to one or more constraints (*constraint optimisation*)
 	- An example of this is either maximising or minimsing $z  = f(X)$ with a one or more equality constraint $g_{i}(X) = ci$
-- Next, simply choose a *mathematical method* to solve the optimisation problem (done by searching the space of solutions and finding the absolute best solution)
+- Next, simply choose a *mathematical method* to solve the optimisation problem (done by searching the space of solutions and finding the absolute best solution
+
+### Continuous vs Discrete Search Spaces
+Examples:
+| Continuous | Discrete |
+| ------------ | --------| 
+| Finding the *optimum* setting for the angle of the wings of a car providing the best performance | Organise the *optimum (minimum)* number of tour busses for groups of 30,10,60, etc where a bus has 70 seats
+| Function Optimisation | Bin Packing (packing all items into a *minimum* number of bins) 
+
+> Essentially, search spaces can be taken as discrete or continuous depending on the optimisation problem given, and hence the solution would either be continuous or discrete (such as an optimised function or an optimised number)
+
+---
+#### Problem vs Problem Instance
+- A **problem** refers to the *higher level* question or optimisation issue to be solved
+- whilst an **instance** of this problem is the *concrete expression* which represents the *input for the optimisation problem*
+
+> As an example: The assignment of groups to busses earlier is *an optimisation problem* however the Optimal Assignment of *3 groups* to busses each with 45 seats and having 10 busses at max is an *instance of this problem*
+
+Problems can also be further divided into *classes*:
+- **P** : where problems can be *solved* in *polynomial time*
+- **NP** : where problems can be *verified* in *polynomial time*
+- **NP-Complete** problems are the *most difficult* NP problems
+- **NP-Hard** are those *at-least as hard* as NP problems 
+
+![[Pasted image 20230509152437.png]]
+
+**Combinatorial Optimisation Problem**
+- The bin packing problem and the bus grouping problem is a part of this subsection of problems; where it requires the finding of an *optimal object* from a *finite set of objects*
+- This problem is mostly **NP-Hard**
+	- such as determining the optimal way to deliver packages
+	- optimal scheduling of shifts and jobs to various constraints
+	- optimal packing of items
+
+> NP-hard COPs, the time complexity of finding solutions can grow exponenetially with instances size
+
+#### Optimisation Methods
+- Broadly classified into two main methods:
+	- **Systematic/Exact/Exhaustive methods**
+		- such as Dynamic Programming, Constraint satisfaction and Branch bound
+	- **Approximate/Inexact/Local Search methods**
+		- such as heuristics, metaheuristics, and hyper-heuristics
+
+> AI methods focuses on **heurisitc search methods**; by utilising modern optimisation or search techniques such as *heuristics, metaheuristics, and hyper-heuristic* to solve *discrete* combinatorial optimisation problems effectively and efficiently. Facilitating the use of data, models and structured decision processes for decision support.
+
+
+
 
 #semester4 #ai-methods 

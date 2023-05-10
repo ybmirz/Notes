@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Terminologies.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b06c9cc1a76e004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#languages-computation",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Terminologies.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Terminologies.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Terminologies.md"
+                "file": "BSc Notes/Semester 4/AI Methods/Hill Climbing.md"
               }
             }
           },
@@ -196,42 +210,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bcb7c96d5a97b015",
+  "active": "6b06c9cc1a76e004",
   "lastOpenFiles": [
-    "BSc Notes/-images/Pasted image 20230509143939.png",
-    "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
-    "BSc Notes/Semester 4/AI Methods/Terminologies.md",
-    "BSc Notes/Semester 4/AI Methods/Introduction.md",
-    "BSc Notes/Semester 4/Languages and Computation/Deterministic Pushdown Automata (DPDAs).md",
+    "BSc Notes/-images/Pasted image 20230510223330.png",
+    "BSc Notes/-images/Pasted image 20230510205207.png",
+    "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
+    "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
+    "BSc Notes/Semester 4/Languages and Computation/Language of a PDA.md",
+    "BSc Notes/Semester 4/Languages and Computation/Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata (NFA).md",
     "BSc Notes/Semester 4/Languages and Computation/Pushdown Automata (PDA).md",
     "BSc Notes/Semester 4/Languages and Computation/Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/Deterministic Pushdown Automata (DPDAs).md",
+    "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
+    "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+    "BSc Notes/Semester 4/Languages and Computation/DFAs are NFAs.md",
+    "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
+    "BSc Notes/-images/Pasted image 20230510120302.png",
+    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
+    "BSc Notes/Semester 4/AI Methods/Introduction.md",
+    "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
+    "BSc Notes/-images/Pasted image 20230510112935.png",
+    "BSc Notes/Semester 4/AI Methods/Representation.md",
+    "BSc Notes/Semester 4/AI Methods/Terminologies.md",
+    "BSc Notes/-images/Pasted image 20230509152437.png",
+    "BSc Notes/-images/Pasted image 20230509143939.png",
     "BSc Notes/Semester 4/Languages and Computation/Regular Languages.md",
     "Braindead Notes/2023-05-07.md",
     "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
     "2023-W19.md",
     "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
     "Braindead Notes",
-    "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
     "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata (DFA).md",
-    "BSc Notes/Semester 4/Languages and Computation/Language of a PDA.md",
     "BSc Notes/Semester 4/Languages and Computation/Untitled",
     "Derives in 1 or more.md",
-    "BSc Notes/Semester 4/Languages and Computation/Formal Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
-    "Context Free Grammar.md",
-    "Context Free Langauages.md",
     "BSc Notes/-images/Pasted image 20230430175419.png",
-    "BSc Notes/Semester 4/Languages and Computation/DFAs are NFAs.md",
-    "BSc Notes/Semester 4/Languages and Computation/Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
-    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
-    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata (NFA).md",
-    "conflict-files-obsidian-git.md",
     "BSc Notes/-images/Pasted image 20230312153854.png",
     "BSc Notes/-images/Pasted image 20230312151747.png",
     "BSc Notes/-images/Pasted image 20230312150505.png",
-    "BSc Notes/-images/Pasted image 20230312142014.png",
-    "BSc Notes/-images/Pasted image 20230307225304.png",
-    "BSc Notes/-images/Pasted image 20230307215800.png"
+    "BSc Notes/-images/Pasted image 20230312142014.png"
   ]
 }
