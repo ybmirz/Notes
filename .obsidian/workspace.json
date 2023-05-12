@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Local Search.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "relation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 200
   },
   "right": {
     "id": "ab4d063a72a6e388",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Local Search.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Local Search.md",
+                "file": "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Local Search.md"
+                "file": "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md"
               }
             }
           },
@@ -198,41 +198,42 @@
   },
   "active": "ab4c15b2a8ae3b6e",
   "lastOpenFiles": [
+    "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
     "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md",
+    "BSc Notes/Semester 4/AI Methods/Representation.md",
+    "BSc Notes/Semester 4/AI Methods/Scheduling.md",
+    "BSc Notes/Semester 4/AI Methods/Population-based Search.md",
+    "BSc Notes/Semester 4/AI Methods/Local Search.md",
+    "BSc Notes/Semester 4/AI Methods/Introduction.md",
+    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
+    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
+    "BSc Notes/Semester 4/Languages and Computation/Word.md",
+    "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata (DFA).md",
+    "BSc Notes/Semester 4/Languages and Computation/Finite Automata.md",
+    "BSc Notes/Semester 4/Languages and Computation/Formal Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata (NFA).md",
+    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
+    "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
+    "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
+    "BSc Notes/Semester 4/Languages and Computation/Pushdown Automata (PDA).md",
+    "BSc Notes/Semester 4/Languages and Computation/Language of a PDA.md",
     "BSc Notes/-images/Pasted image 20230511193425.png",
     "BSc Notes/-images/Pasted image 20230511193022.png",
     "BSc Notes/Semester 4/AI Methods/Late-A.md",
     "BSc Notes/-images/Pasted image 20230511191115.png",
-    "BSc Notes/Semester 4/AI Methods/Scheduling.md",
     "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
     "CSS 21-22/OpenRevise Planning - MengZe.md",
-    "BSc Notes/Semester 4/AI Methods/Local Search.md",
     "BSc Notes/-images/Pasted image 20230510232248.png",
     "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
-    "BSc Notes/Semester 4/AI Methods/Introduction.md",
-    "BSc Notes/Semester 4/AI Methods/Population-based Search.md",
-    "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
     "BSc Notes/-images/Pasted image 20230510223330.png",
     "BSc Notes/-images/Pasted image 20230510205207.png",
     "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
-    "BSc Notes/Semester 4/Languages and Computation/Language of a PDA.md",
-    "BSc Notes/Semester 4/Languages and Computation/Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata (NFA).md",
-    "BSc Notes/Semester 4/Languages and Computation/Pushdown Automata (PDA).md",
-    "BSc Notes/Semester 4/Languages and Computation/Finite Automata.md",
-    "BSc Notes/Semester 4/Languages and Computation/Deterministic Pushdown Automata (DPDAs).md",
-    "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
-    "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
-    "BSc Notes/Semester 4/Languages and Computation/DFAs are NFAs.md",
     "BSc Notes/-images/Pasted image 20230510120302.png",
-    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
     "BSc Notes/-images/Pasted image 20230510112935.png",
-    "BSc Notes/Semester 4/AI Methods/Representation.md",
-    "BSc Notes/Semester 4/AI Methods/Terminologies.md",
     "BSc Notes/-images/Pasted image 20230509152437.png",
     "BSc Notes/-images/Pasted image 20230509143939.png",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Languages.md",
     "Braindead Notes",
     "BSc Notes/Semester 4/Languages and Computation/Untitled"
   ]
