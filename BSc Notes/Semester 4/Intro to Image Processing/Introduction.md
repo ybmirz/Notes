@@ -12,21 +12,28 @@
 2. Creating an **acquisition of information**
 	- The act of acquiting information from an object within an environment, or *an image*. More on [[Image Acquisition]]
 3. Annotating the **color representation** of the image, based on the acquisition
+	- This color representation of the image can also be taken as the image's [[Color Spaces]] (would be used to process the image information)
 
 > It should note that Pixel values represent the *brightness* and *colour* of the viewed objects, but give no indication of what object the numbers refer to - hence low-level
 
 **Image Manipulation**
 - From noise reduction, smoothing, sharpening, constrast enhancement,, changing the appearance of an image, etc.
+	- can be **transformations** of image values; such as:
+		- [[Intensity Transform]]
+	- can also be through the use of **filters** onto an image; such as:
+		- [[Spatial Filtering]]
+	- can also by finding a **threshold** within the image; such as:
+		- [[Thresholding]]
 
 > **How do we image process vector images?**
 > 	*question came up due to an understanding of logically, using pixels to move through an image, but vector images does not have pixels*
 > Answer: Most of the time, the traversal of the image is done by the pixel and an analysis of each pixel
 
-> **What about upscaling an image? Is it algorithmically similar to enlarging an image?**
+> **What about upscaling an image? Is it algorithmic-ally similar to enlarging an image?**
 > Answer: Upscaling ensures that when the image is enlarged, the pixels around one *significant* pixel by value, should be kept in a similar value (colour ratio)
 
 > **Can we algorithmically determine whether an image has been manipulated or not?**
-> Answer: It is difficult to reverse, but can be done through the colour historgram or comparison
+> Answer: It is difficult to reverse, but can be done through the colour histogram or comparison
 
 ### Image Compression
 - Given a large data of information, there should be some sort of *redundancy and image compression* such that we can **efficiently** represent image data for storage (minimise space) and communication (minimise network bandwidth) 

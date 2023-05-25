@@ -105,6 +105,26 @@ a stochastic local search algorithm inspired by the physical process of annealin
 
 > Real world annealing: a liquid material cools and anneals too quickly, this material will solidify into a *sub-optimal* solid configuration. But if it cools slowly, the crystals within the material will solidify *optimally into a state of minimum energy* - we  take the ground state of our algorithm to be the minimum of the cost function in an optimisation problem.
 
+![[Pasted image 20230512173723.png]]
+> The above is the pseudo code for simulated annealing. 
+
+#### Move Acceptance in SA
+- Generally improving moves are accepted.
+- Worsening moves are accepted using the Metropolis criterion at a given temperature $T$
+$$
+\nabla = F(S_{new}) - F(S_{old})
+$$
+- An inferior solution would yield $\nabla > 0$  hence it would only be accepted with a *Boltzmann Probability* of $P(\nabla,T) = e^{\frac{-\nabla}{T}}$. With a random number $U(0,1)$ *accept if* $U(0,1) < P(\nabla,T)$
+
+- heavily inspired by real world annealing, this algorithm works using the temperature parameter *T*. This parameter slowly decreases over time; and an initial value is set (this affects the performance of the metaheuristic in a few ways.)
+	- If $T$ is *initially high* this results in many *inferior moves* being accepted 
+	- and as $T$ *decreases* these moves are *nearly always rejected*. As it decreases the probability of accepting worsening moves decreases.
+ 
+- This local search meta heuristic has several points of interest, or could be said **cooling schedule**:
+	- A starting temp
+	- Final temp
+	- Temperature decrement
+	- Iterations at each temperature
 
 
 

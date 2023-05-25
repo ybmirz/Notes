@@ -4,23 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "7e3491608fdff01d",
+        "id": "11c2f4ec4763a1c5",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4c15b2a8ae3b6e",
+            "id": "6f712a7e4b621332",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md",
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5b5ca686cff1c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12deec37f2ee8691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Color Spaces.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2c373b3ae06c81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Spatial Filtering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "184d71c4a106e2c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,8 +97,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relation",
-                "matchingCase": true,
+                "query": "tag:#image-process",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,7 +115,7 @@
             }
           },
           {
-            "id": "06217c47857927d0",
+            "id": "040095b165599cd3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md",
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md",
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,28 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md"
+                "file": "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md"
               }
             }
           },
           {
-            "id": "8ec6d8c553650d9c",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d2306d3e764d038",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {}
-            }
-          },
-          {
-            "id": "9fbaf6442887f181",
+            "id": "605af2d26c46e33f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -152,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "02dc92cfad6d345c",
@@ -182,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,45 +228,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ab4c15b2a8ae3b6e",
+  "active": "b5b5ca686cff1c64",
   "lastOpenFiles": [
-    "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
-    "BSc Notes/Semester 4/AI Methods/Move-Acceptance.md",
-    "BSc Notes/Semester 4/AI Methods/Representation.md",
-    "BSc Notes/Semester 4/AI Methods/Scheduling.md",
-    "BSc Notes/Semester 4/AI Methods/Population-based Search.md",
-    "BSc Notes/Semester 4/AI Methods/Local Search.md",
-    "BSc Notes/Semester 4/AI Methods/Introduction.md",
-    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
-    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
-    "BSc Notes/Semester 4/Languages and Computation/Word.md",
-    "BSc Notes/Semester 4/Languages and Computation/Context Free Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Deterministic Finite Automata (DFA).md",
-    "BSc Notes/Semester 4/Languages and Computation/Finite Automata.md",
-    "BSc Notes/Semester 4/Languages and Computation/Formal Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Image Noise.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Image Acquisition.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Color Spaces.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Aliasing.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Thresholding.md",
+    "BSc Notes/-images/Pasted image 20230519194918.png",
+    "BSc Notes/Semester 4/Intro to Image Processing/Spatial Filtering.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Introduction.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Intensity Transform.md",
+    "BSc Notes/-images/Pasted image 20230519172345.png",
+    "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Resolution.md",
+    "BSc Notes/Semester 4/Intro to Image Processing/Quantisation.md",
+    "BSc Notes/-images/Pasted image 20230519160126.png",
+    "BSc Notes/-images/Pasted image 20230519154734.png",
+    "BSc Notes/Semester 4/Languages and Computation/Deterministic Pushdown Automata (DPDAs).md",
     "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata (NFA).md",
-    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
-    "BSc Notes/Semester 4/Languages and Computation/Context-Free Grammar.md",
-    "BSc Notes/Semester 4/Languages and Computation/Compilers.md",
-    "BSc Notes/Semester 4/Languages and Computation/Pushdown Automata (PDA).md",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
+    "BSc Notes/Semester 4/Languages and Computation/DFAs are NFAs.md",
+    "BSc Notes/Semester 4/Languages and Computation/Regular Languages.md",
+    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
     "BSc Notes/Semester 4/Languages and Computation/Language of a PDA.md",
+    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
+    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
+    "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
+    "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
+    "BSc Notes/Semester 4/AI Methods/Population-based Search.md",
+    "BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
+    "BSc Notes/Semester 4/AI Methods/Heuristics.md",
+    "BSc Notes/-images/Pasted image 20230512173723.png",
+    "Braindead Notes",
     "BSc Notes/-images/Pasted image 20230511193425.png",
     "BSc Notes/-images/Pasted image 20230511193022.png",
-    "BSc Notes/Semester 4/AI Methods/Late-A.md",
     "BSc Notes/-images/Pasted image 20230511191115.png",
-    "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
-    "CSS 21-22/OpenRevise Planning - MengZe.md",
     "BSc Notes/-images/Pasted image 20230510232248.png",
-    "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
-    "BSc Notes/-images/Pasted image 20230510223330.png",
-    "BSc Notes/-images/Pasted image 20230510205207.png",
-    "BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
-    "BSc Notes/-images/Pasted image 20230510120302.png",
-    "BSc Notes/-images/Pasted image 20230510112935.png",
-    "BSc Notes/-images/Pasted image 20230509152437.png",
-    "BSc Notes/-images/Pasted image 20230509143939.png",
-    "Braindead Notes",
-    "BSc Notes/Semester 4/Languages and Computation/Untitled"
+    "BSc Notes/-images/Pasted image 20230510223330.png"
   ]
 }
