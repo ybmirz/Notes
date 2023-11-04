@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d9e3155ed2c5156",
+            "id": "177946ef871caa5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Notes/Semester 5/Machine Learning/Data Structure.md",
+                "file": "BSc Notes/Semester 5/Compilers/Parser.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,25 @@
             }
           },
           {
-            "id": "b34404502ed82c79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Notes/Semester 5/Machine Learning/Coursework 1/Linear Classification.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48cd9fc8f9a85d67",
+            "id": "a4bf4292a77686e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "BSc Notes/Semester 5/Compilers/Lexical Analysis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "405610f456066448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Notes/Semester 5/Compilers/Parser.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#machine-learning",
+                "query": "tag:#compilers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Notes/Semester 5/Compilers/Lexical Analysis.md",
+                "file": "BSc Notes/Semester 5/Compilers/Parser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Notes/Semester 5/Compilers/Lexical Analysis.md",
+                "file": "BSc Notes/Semester 5/Compilers/Parser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Notes/Semester 5/Compilers/Lexical Analysis.md"
+                "file": "BSc Notes/Semester 5/Compilers/Parser.md"
               }
             }
           },
@@ -217,52 +217,51 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48cd9fc8f9a85d67",
+  "active": "405610f456066448",
   "lastOpenFiles": [
+    "BSc Notes/Semester 5/Compilers/Parts of a String.md",
+    "BSc Notes/Semester 5/Compilers/Parser.md",
+    "BSc Notes/Semester 5/Compilers/Lexical Analyzer.md",
     "BSc Notes/Semester 5/Compilers/Lexical Analysis.md",
+    "BSc Notes/-images/Pasted image 20231104180004.png",
+    "BSc Notes/Semester 5/Compilers/Compiler Breakdown.md",
     "BSc Notes/Semester 5/Machine Learning/Coursework 1/Linear Classification.md",
+    "BSc Notes/Semester 5/Machine Learning/Data Structure.md",
+    "BSc Notes/Semester 5/Compilers/Semantic Analysis.md",
+    "BSc Notes/Semester 5/Compilers/Syntax Analysis.md",
+    "Untitled.md",
+    "Compiler Breakdown.md",
+    "BSc Notes/Note Template.md",
     "BSc Notes/Semester 5/Machine Learning/Coursework 1",
     "BSc Notes/Semester 5/Machine Learning/Hypothesis.md",
-    "BSc Notes/Semester 5/Machine Learning/Data Structure.md",
     "Untitled.canvas",
-    "BSc Notes/Semester 4/Intro to Image Processing/Spatial Filtering.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Color Spaces.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Introduction.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Spatial Filtering.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Color Spaces.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Introduction.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Sampling.md",
     "BSc Notes/Semester 5/Individual Dissertation",
     "BSc Notes/Semester 5/Compilers/Untitled",
     "BSc Notes/Semester 5/Machine Learning",
     "BSc Notes/Semester 5/Ethics in Computing",
     "BSc Notes/Semester 5/Compilers",
     "BSc Notes/Semester 5",
-    "BSc Notes/Semester 4/Intro to Image Processing/Image Noise.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Image Acquisition.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Aliasing.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Thresholding.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Image Noise.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Image Acquisition.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Aliasing.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Thresholding.md",
     "BSc Notes/-images/Pasted image 20230519194918.png",
-    "BSc Notes/Semester 4/Intro to Image Processing/Intensity Transform.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Intensity Transform.md",
     "BSc Notes/-images/Pasted image 20230519172345.png",
-    "BSc Notes/Semester 4/Intro to Image Processing/Resolution.md",
-    "BSc Notes/Semester 4/Intro to Image Processing/Quantisation.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Resolution.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Intro to Image Processing/Quantisation.md",
     "BSc Notes/-images/Pasted image 20230519160126.png",
     "BSc Notes/-images/Pasted image 20230519154734.png",
-    "BSc Notes/Semester 4/Languages and Computation/Deterministic Pushdown Automata (DPDAs).md",
-    "BSc Notes/Semester 4/Languages and Computation/Nondeterministic Finite Automata (NFA).md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Expression.md",
-    "BSc Notes/Semester 4/Languages and Computation/DFAs are NFAs.md",
-    "BSc Notes/Semester 4/Languages and Computation/Regular Languages.md",
-    "BSc Notes/Semester 4/Languages and Computation/Terminology.md",
-    "BSc Notes/Semester 4/Languages and Computation/Language of a PDA.md",
-    "BSc Notes/Semester 4/Languages and Computation/Introduction.md",
-    "BSc Notes/Semester 4/Languages and Computation/Automata Theory.md",
-    "BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
-    "BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
+    "BSc Notes/Semester 3/SEGP/Semester 4/Languages and Computation/Deterministic Pushdown Automata (DPDAs).md",
     "BSc Notes/-images/Pasted image 20230512173723.png",
     "Braindead Notes",
     "BSc Notes/-images/Pasted image 20230511193425.png",
     "BSc Notes/-images/Pasted image 20230511193022.png",
     "BSc Notes/-images/Pasted image 20230511191115.png",
-    "BSc Notes/-images/Pasted image 20230510232248.png",
-    "BSc Notes/-images/Pasted image 20230510223330.png"
+    "BSc Notes/-images/Pasted image 20230510232248.png"
   ]
 }
