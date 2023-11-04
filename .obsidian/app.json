@@ -3,10 +3,5 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "vimMode": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "en-CA",
-    "en-GB",
-    "en-GB-oxendict"
-  ]
+  "spellcheckLanguages": null
 }
