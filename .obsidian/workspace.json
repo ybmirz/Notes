@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Research/FOCUS 2024 Presentation Outline.md",
+                "file": "Projects/Alevate Apps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FOCUS 2024 Presentation Outline"
+              "title": "Alevate Apps"
             }
           }
         ]
@@ -219,8 +219,8 @@
   },
   "active": "d960e7619c6bcbc9",
   "lastOpenFiles": [
-    "Projects/Alevate Apps.md",
     "Areas/Research/FOCUS 2024 Presentation Outline.md",
+    "Projects/Alevate Apps.md",
     "Areas/Research",
     "Untitled",
     "Projects/IoTWatt.md",
