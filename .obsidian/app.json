@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "vimMode": true,
-  "spellcheckLanguages": null
+  "spellcheckLanguages": null,
+  "promptDelete": false
 }

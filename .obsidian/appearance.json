@@ -1,8 +1,12 @@
 {
-  "accentColor": "#2ef5f2",
+  "accentColor": "",
   "cssTheme": "Catppuccin",
-  "theme": "obsidian",
+  "theme": "system",
   "baseFontSize": 16,
   "interfaceFontFamily": "Arial",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "translucent"
+  ]
 }
