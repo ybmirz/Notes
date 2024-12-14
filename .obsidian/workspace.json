@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Welcome! 🛰️.md",
+                "file": "Content/Resources/Writing Logs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome! 🛰️"
+              "title": "Writing Logs"
             }
           }
         ]
@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Projects/Alevate Apps.md",
+                "file": "Content/Areas/Research/UM FOCUS 2024 Submission - Encoding Methods on Variational HQCCNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alevate Apps"
+              "title": "UM FOCUS 2024 Submission - Encoding Methods on Variational HQCCNN"
             }
           }
         ]
@@ -233,11 +233,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3aee022c4262f3a4",
+  "active": "847ef3a2baad76cb",
   "lastOpenFiles": [
+    "Content/Areas/Books",
+    "Content/Welcome! 🛰️.md",
+    "Content/Areas/Research/UM FOCUS 2024 Submission - Encoding Methods on Variational HQCCNN.md",
+    "Content/Projects/Alevate Apps.md",
     "Content/Resources/Writing Logs.md",
     "Content/Projects/IoTWatt.md",
-    "Content/Projects/Alevate Apps.md",
     "Content/Projects/OtakOtak.md",
     "Content/Projects/Kota.md",
     "Content/Projects/A \"portfolio\".md",
@@ -245,12 +248,10 @@
     "Content/Areas/Yappings",
     "Content/Areas/Untitled.md",
     "Content/Resources/Technical Blogs",
-    "Content/Welcome! 🛰️.md",
     "Content/Areas/Research/Papers/What is this?.md",
     "Content/Areas/Research/Papers/Individual Dissertation - B.Sc. in Computer Science (University of Nottingham Malaysia).md",
     "Content/Areas/Research/Papers/FOCUS2024_Encoding Methods on a variational Quanvolutional Neural Network.md",
     "Content",
-    "Content/Areas/Research/UM FOCUS 2024 Submission - Encoding Methods on Variational HQCCNN.md",
     "image8.md",
     "Content/Areas/Research/Papers",
     "Content/Areas/Research",
