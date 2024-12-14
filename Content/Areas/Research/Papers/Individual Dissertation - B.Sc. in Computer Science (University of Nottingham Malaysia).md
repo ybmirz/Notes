@@ -3,6 +3,7 @@ aliases:
   - bachelor's degree dissertation
 tags:
   - research-papers
+enableToc: utrue
 ---
 # **A Study on Hybrid Quantum-Classical Convolutional Neural Networks and its Quantum Image Encoding Methods for Image Classification**
 ### Abstract {#abstract}

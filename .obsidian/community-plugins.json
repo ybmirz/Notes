@@ -9,5 +9,6 @@
   "quickadd",
   "templater-obsidian",
   "obsidian-tasks-plugin",
-  "vimium"
+  "vimium",
+  "obsidian-wakatime"
 ]
