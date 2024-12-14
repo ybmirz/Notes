@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "Noto Sans Mono",
+  "enabledCssSnippets": [
+    "translucent"
+  ],
+  "textFontFamily": "Lexend"
+}
