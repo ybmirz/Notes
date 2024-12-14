@@ -28,7 +28,7 @@ tags:
 **mirzahiday.at**:
 - [ ] main website: built using wasm, running a container like three.js operation
 - [ ] visual ctf within the site itself, landing towards some notes in this yappa
-- [ ] 
+- [ ] make notes site to play music as people browse - add animations and coffee moves
 ##### Yaps:
 - [ ] Notes on https://www.youtube.com/watch?v=S1cWUtgQe_Q (what it means to feel like betraying your life and what you can learn) - listening to yourself
 	- [ ] Relationship of this notion to *how deep you can look under the hood*
