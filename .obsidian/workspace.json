@@ -6,7 +6,6 @@
       {
         "id": "54fb0e50cbedb115",
         "type": "tabs",
-        "dimension": 49.93084370677732,
         "children": [
           {
             "id": "3aee022c4262f3a4",
@@ -14,35 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Welcome! 🛰️.md",
+                "file": "Content/Projects/Kota.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome! 🛰️"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8f152d7b14a75b46",
-        "type": "tabs",
-        "dimension": 50.06915629322268,
-        "children": [
-          {
-            "id": "2c87d9b0bd101384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/Resources/Writing Logs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing Logs"
+              "title": "Kota"
             }
           }
         ]
@@ -111,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.0110321044922
   },
   "right": {
     "id": "ab4d063a72a6e388",
@@ -221,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392
+    "width": 261
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,42 +215,43 @@
   "active": "3aee022c4262f3a4",
   "lastOpenFiles": [
     "Content/Resources/Writing Logs.md",
-    "Content/Welcome! 🛰️.md",
-    "Content/Areas/Research/UM FOCUS 2024 Submission - Encoding Methods on Variational HQCCNN.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Metaheuristics.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Terminologies.md",
+    "Archive/BSc Notes/Semester 4/Intro to Image Processing/Intensity Transform.md",
+    "Archive/BSc Notes/Semester 4/Intro to Image Processing/Quantisation.md",
+    "Archive/BSc Notes/Semester 4/Intro to Image Processing/Sampling.md",
+    "The Initialisation.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Neighbourhoods.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Representation.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Scheduling.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Evaluation Function.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Hill Climbing.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Population-based Search.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Introduction.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Local Search.md",
+    "Archive/BSc Notes/Semester 4/AI Methods/Heuristics.md",
+    "Archive/BSc Notes/Semester 4/Intro to Image Processing/Aliasing.md",
+    "Archive/BSc Notes/Semester 5/Compilers/Lexical Analysis.md",
+    "Archive/BSc Notes/Semester 5/Compilers/Lecture 1 - Introduction.md",
+    "Untitled.md",
+    "Archive/BSc Notes/Semester 5/Compilers/Semantic Analysis.md",
+    "Archive/BSc Notes/Semester 5/Compilers/Syntax Analysis.md",
+    "Archive/BSc Notes/Semester 5/Compilers/Compiler Breakdown.md",
+    "Archive/BSc Notes/Semester 5/Compilers/Lexical Analyzer.md",
+    "Archive/BSc Notes/Semester 5/Compilers/Parts of a String.md",
+    "Archive/BSc Notes/Semester 5/Compilers/Parser.md",
     "Content/Areas/Books",
-    "Content/Projects/Alevate Apps.md",
-    "Content/Projects/IoTWatt.md",
-    "Content/Projects/OtakOtak.md",
-    "Content/Projects/Kota.md",
-    "Content/Projects/A \"portfolio\".md",
     "Content/Resources/Dailies",
     "Content/Areas/Yappings",
-    "Content/Areas/Untitled.md",
     "Content/Resources/Technical Blogs",
-    "Content/Areas/Research/Papers/What is this?.md",
-    "Content/Areas/Research/Papers/Individual Dissertation - B.Sc. in Computer Science (University of Nottingham Malaysia).md",
-    "Content/Areas/Research/Papers/FOCUS2024_Encoding Methods on a variational Quanvolutional Neural Network.md",
     "Content",
-    "image8.md",
     "Content/Areas/Research/Papers",
     "Content/Areas/Research",
     "Content/Resources",
     "Content/Areas",
     "Content/Projects",
-    "Braindead Notes/Introduction to Graph Algorithms.md",
     "Untitled.canvas",
-    "2024-12-05.md",
-    "Braindead Notes/2024-12-05.md",
-    "Archive/Reading Notes/The Richest Man in Babylon.md",
-    "Archive/BSc Notes/Semester 5/Compilers/Parser.md",
-    "Archive/BSc Notes/Semester 5/Compilers/Lexical Analysis.md",
-    "Archive/Braindead Notes/2023-05-07.md",
-    "Archive/BSc Notes/Semester 5/Compilers/Parts of a String.md",
-    "Archive/BSc Notes/Semester 5/Compilers/Lexical Analyzer.md",
     "Archive/BSc Notes/-images/Pasted image 20231104180004.png",
-    "Archive/BSc Notes/Semester 5/Compilers/Compiler Breakdown.md",
-    "Archive/BSc Notes/Semester 5/Machine Learning/Coursework 1/Linear Classification.md",
-    "Archive/BSc Notes/Semester 5/Machine Learning/Data Structure.md",
     "Archive/BSc Notes/-images/Pasted image 20230519194918.png",
     "Archive/BSc Notes/-images/Pasted image 20230519172345.png",
     "Archive/BSc Notes/-images/Pasted image 20230519160126.png",

@@ -9,7 +9,7 @@
 ### Main Components of a MH Search
 - [[Representation]] of candidate solution
 - [[Evaluation Function]]
-- The Initialisation; where an initial candidate solution may be chosen.
+- [[The Initialisation]] where an initial candidate solution may be chosen.
 	- *randomly*
 	- using a *constructive heuristic*
 	- according to *some regular pattern*
