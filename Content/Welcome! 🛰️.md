@@ -23,6 +23,9 @@ Here you'll find my thoughts on:
 - Random musings about life, tech, and everything in between
 
 ### More about me 
+
+>  ***"but how could you live and have no story to tell?"*** - p.20 dostoyevsky, white nights.
+
 **In 10 Seconds**:
 - a passionate researcher and software developer, actively researching in quantum computation (the goal is to exploit fundamental physics for our uses!) with a day job in software development.
 - i love the concept of third places, human behaviour and learning.
@@ -33,4 +36,9 @@ Here you'll find my thoughts on:
 - dostoyevsky, kafka, and sherlock [enjoyer](https://www.goodreads.com/user/show/24046711-miru)
 - i am both sherlock-ed and a benedict cumberbitch (*"penglins"*)
 
->  ***"but how could you live and have no story to tell?"*** - p.20 dostoyevsky, white nights.
+**My Digital Life:**
+- the things i listen to [(a musing of my emotional state)](https://stats.fm/xenonial)
+- my actual [developer portfolio]()
+- check out [my linux rices](https://github.com/ybmirz/dotfiles):
+<a href="https://ibb.co/nD7cFm3"><img src="https://i.ibb.co/p3fzSwW/241215-16h09m42s-screenshot.png" alt="241215-16h09m42s-screenshot" border="0"></a>
+<a href="https://ibb.co/6B9k6t1"><img src="https://i.ibb.co/16ykHXd/241215-16h53m56s-screenshot.png" alt="241215-16h53m56s-screenshot" border="0"></a>
