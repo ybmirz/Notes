@@ -45,6 +45,7 @@ tags:
 - [ ] enshittificatoin in research
 - [ ] performative media
 - [ ] existentialism and mental health
+- [ ] https://youtu.be/rzzxFuyJX5E?si=qQnlZeIYYl0naBhv nietzhsce
 
 **tweets:**
 - [ ] your bookmarks
